@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "uk-atrs-governance-audit"
+version = "1.0.0"
+description = "Reproducible audit of UK public-sector algorithm transparency disclosures"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Sanket C Sakhare"}]
+keywords = ["ai-governance", "algorithmic-transparency", "responsible-ai", "uk-government"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Scientific/Engineering :: Information Analysis",
+]
+
+[project.scripts]
+atrs-audit = "atrs_audit.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]

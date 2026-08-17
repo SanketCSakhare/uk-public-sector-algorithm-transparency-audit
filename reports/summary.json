@@ -1,0 +1,76 @@
+{
+  "record_count": 142,
+  "organisation_count": 36,
+  "latest_publication_date": "2026-08-13",
+  "mean_disclosure_score": 94.5,
+  "indicator_coverage_percent": {
+    "accountability": 99.3,
+    "human_oversight": 100.0,
+    "contestability": 84.5,
+    "impact_assessment": 90.1,
+    "risks_mitigations": 97.2,
+    "model_performance": 89.4,
+    "data_governance": 96.5,
+    "monitoring_maintenance": 99.3
+  },
+  "phase_counts": {
+    "production": 88,
+    "beta-pilot": 22,
+    "private-beta": 11,
+    "public-beta": 9,
+    "pre-deployment": 8,
+    "retired": 4
+  },
+  "function_counts": {
+    "general-public-services": 65,
+    "education": 17,
+    "housing-and-community-amenities": 17,
+    "health": 17,
+    "economic-affairs": 16,
+    "public-order-and-safety": 10,
+    "social-protection": 8,
+    "regulation": 6,
+    "environmental-protection": 6,
+    "defence": 2
+  },
+  "atrs_version_counts": {
+    "v3.0": 88,
+    "v4.0": 43,
+    "v1.1": 7,
+    "v2.1": 4
+  },
+  "data_quality": {
+    "reported_total": 142,
+    "records_fetched": 142,
+    "record_count_matches_source": true,
+    "duplicate_source_urls": 0,
+    "missing_title": 0,
+    "missing_organisation": 0,
+    "missing_publication_date": 0,
+    "missing_atrs_version": 0,
+    "unknown_phase_values": [],
+    "raw_version_labels": {
+      "3.0": 14,
+      "4.0": 1,
+      "v1.1": 7,
+      "v2.1": 4,
+      "v3": 8,
+      "v3.0": 66,
+      "v4.0": 42
+    },
+    "normalised_versions": {
+      "v1.1": 7,
+      "v2.1": 4,
+      "v3.0": 88,
+      "v4.0": 43
+    }
+  },
+  "source": {
+    "source_name": "GOV.UK Algorithmic Transparency Records",
+    "source_url": "https://www.gov.uk/algorithmic-transparency-records",
+    "api_url": "https://www.gov.uk/api/search.json",
+    "retrieved_at_utc": "2026-08-17T21:13:33.243445+00:00",
+    "licence": "Open Government Licence v3.0",
+    "reported_total": 142
+  }
+}

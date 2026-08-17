@@ -1,0 +1,26 @@
+{
+  "reported_total": 142,
+  "records_fetched": 142,
+  "record_count_matches_source": true,
+  "duplicate_source_urls": 0,
+  "missing_title": 0,
+  "missing_organisation": 0,
+  "missing_publication_date": 0,
+  "missing_atrs_version": 0,
+  "unknown_phase_values": [],
+  "raw_version_labels": {
+    "3.0": 14,
+    "4.0": 1,
+    "v1.1": 7,
+    "v2.1": 4,
+    "v3": 8,
+    "v3.0": 66,
+    "v4.0": 42
+  },
+  "normalised_versions": {
+    "v1.1": 7,
+    "v2.1": 4,
+    "v3.0": 88,
+    "v4.0": 43
+  }
+}
