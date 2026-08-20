@@ -1,0 +1,7 @@
+experiment_id	approach	metric_name	metric_value	complexity	status	description
+exp_00_dummy	Prior-probability baseline	roc_auc	0.5	0	discard	Predicts the training-fold class prior and uses no record features.
+exp_01_metadata_logistic	Regularised logistic regression	roc_auc	0.6818	1	keep	Interpretable linear baseline using public categorical and disclosure metadata.
+exp_02_text_metadata_logistic	TF-IDF plus logistic regression	roc_auc	0.69	2	discard	Adds title and description TF-IDF features to the metadata baseline.
+exp_03_random_forest	Balanced random forest	roc_auc	0.6675	3	discard	Non-linear bagged-tree challenger on public metadata.
+exp_04_gradient_boosting	Gradient-boosted trees	roc_auc	0.6245	4	discard	Modern boosted-tree challenger tuned conservatively for the small sample.
+exp_05_calibrated_gradient_boosting	Calibrated gradient-boosted trees	roc_auc	0.6338	5	discard	Gradient boosting with cross-validated sigmoid probability calibration.

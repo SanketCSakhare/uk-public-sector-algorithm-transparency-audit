@@ -20,6 +20,13 @@ classifiers = [
 [project.scripts]
 atrs-audit = "atrs_audit.cli:main"
 
+[project.optional-dependencies]
+ml = [
+  "joblib>=1.4,<2",
+  "scikit-learn>=1.5,<1.6; python_version < '3.11'",
+  "scikit-learn>=1.9,<2; python_version >= '3.11'",
+]
+
 [tool.setuptools]
 package-dir = {"" = "src"}
 
