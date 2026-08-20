@@ -1,0 +1,44 @@
+{
+  "generated_at_utc": "2026-08-20T23:04:47.196307+00:00",
+  "data_path": "data/processed/atrs_audit.csv",
+  "data_sha256": "eab782d38e64700bb487257639ac5944d2a3972ce1fa347aaf589cf15ccb11d2",
+  "target": "1 when phase == 'production'; 0 otherwise",
+  "selected_experiment": "exp_01_metadata_logistic",
+  "selected_approach": "Regularised logistic regression",
+  "validation": "RepeatedStratifiedKFold(n_splits=5, n_repeats=5, random_state=42)",
+  "selection_rule": "Highest mean ROC-AUC; prefer lower complexity within 0.01",
+  "scikit_learn_version": "1.9.0",
+  "python_random_state": 42,
+  "profile": {
+    "record_count": 142,
+    "production_records": 88,
+    "non_production_records": 54,
+    "positive_rate": 0.6197,
+    "date_min": "2022-07-06",
+    "date_max": "2026-08-13",
+    "duplicate_record_ids": 0,
+    "missing_descriptions": 0,
+    "phase_counts": {
+      "private-beta": 11,
+      "beta-pilot": 22,
+      "production": 88,
+      "public-beta": 9,
+      "retired": 4,
+      "pre-deployment": 8
+    }
+  },
+  "oof_metrics": {
+    "roc_auc": 0.693,
+    "average_precision": 0.7927,
+    "balanced_accuracy": 0.6202,
+    "f1": 0.6826,
+    "brier_score": 0.2335,
+    "threshold": 0.5,
+    "confusion_matrix": {
+      "tn": 32,
+      "fp": 22,
+      "fn": 31,
+      "tp": 57
+    }
+  }
+}

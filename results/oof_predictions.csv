@@ -1,0 +1,143 @@
+record_id,title,actual_is_production,oof_probability_production
+132a4abe-d4d4-4db9-a63f-902eda4c1530,AI Writing Assistant (Social Care),0,0.190762
+92bba653-81ee-467c-a271-374752fe72d0,Barnet Council: Ami Chatbot,0,0.079156
+e8f3123b-fe90-49c9-8a79-24cf6918b357,BDUK: Intervention Area Design Algorithms,1,0.8677
+e79acd78-c31d-4eb6-aa88-701021a9aafe,BDUK: Project Gigabit Voucher Eligibility Engine,1,0.310387
+c2afc11b-5c0d-4baf-9eb0-c9e1218e1e9a,"Bristol City Council: Not In Education, Employment or Training Model",1,0.856191
+2a0a87bc-e200-4579-b7e7-794afb21ca62,Cabinet Office: Assist,1,0.254121
+9a42f453-bc32-4338-b008-71aa0eae247d,Cabinet Office: Automated Digital Document Review,1,0.812175
+d5b59b44-f06d-440a-9c50-39c118ea8298,Cabinet Office: Civil Service Verbal and Numerical Tests,1,0.416227
+30622c3f-229b-43b5-8b61-477bff7c2b8c,Cafcass: Genesys ChatBot,1,0.717111
+be0fa272-45ff-45aa-b81d-8f22fbde7669,Camden Council: RentSense,0,0.27875
+a4158966-a031-4262-a800-e3b296623c5a,Care Quality Commission: Fees Calculator Application,1,0.122023
+66896813-f95a-489e-8c8f-60c4cf808245,Care Quality Commission: Relativity Active Learning ,0,0.778324
+8fd81b5c-4615-44d2-88c4-60e1b54a3fe0,Care Quality Commission: Risk Categorisation,1,0.59163
+2b5507b7-a3e3-46ed-ab68-205fed8c3234,DBT: AI Chatbot,0,0.086498
+882752cf-50ff-45c1-850b-5e190c464475,DBT: Business Growth Service AI Summariser ,0,0.245942
+5297e2af-a3d2-4b0b-834b-39b5d20e44eb,DBT: Business Intelligence (BI) Subject Tagger,1,0.692605
+fbe1ab45-df65-4005-af2f-9457a308cb36,DBT: Expenses Fraud Detector,1,0.247759
+4bb5c16e-4f8c-4833-8dce-d929d11803fc,DBT: Find Exporters,1,0.484159
+96a5dab6-67d2-445d-9e1c-7048d7d99742,DBT: Redbox,0,0.330131
+80d6b1b8-1300-4c15-a857-1a5cdd5824b3,DEFRA: Local Authority Waste Collection Cost Groupings,0,0.840073
+18a78590-1ca3-45cc-8def-2b6c38ab3b82,Department for Health and Social Care and NHS Digital: QCovid algorithm,0,0.365892
+130524a1-4b53-420e-8867-fa484245fe9a,DESNZ: Find ways to save energy in your home,0,0.066907
+c1a7c26b-dc6f-4319-9883-ddc31369d9dd,DESNZ: Green Deal Reduction Calculator,1,0.456671
+2495c9bc-33d7-4387-8585-3fe48e320a0f,DESNZ: Heat Pump Suitability Tool,1,0.275257
+72e0de9e-b49b-4aa8-865a-fd2f40bf7838,DESNZ: Warm Home Discount Eligibility - Energy Cost Modelling,1,0.487839
+2093f73d-0803-4cb6-a880-af1d72ee9d58,DESNZ: Warm Homes: Local Grant,0,0.032041
+be02908a-4b07-4c40-99da-6fc14d1d6038,DfE: Apprenticeship Withdrawal Rate AI,0,0.718107
+95c57d51-4603-4155-a790-10f07bb6c112,DfE: Attendance reports using similar schools,0,0.381041
+030b3ec1-5111-4abb-b51c-6dad093b2d99,DfE: Correspondence Drafter,0,0.357126
+498d839e-53b4-4632-aa16-ffd5c623f9aa,DfE: Student Loans Forecast Modelling Pipeline,1,0.289521
+3f50e861-57dd-4ce5-b81b-9c5c8c3ad234,DfE: Virtual Assistant for Education Providers and Learners (Davina),1,0.801103
+ece2efdf-68b4-4af3-9f28-62f39dc43189,Dorset Council: Formulate for Adult Social Care,1,0.968543
+8a9c8637-e1ff-43bb-a32e-27ebbc4bb224,DSIT: Ask Ops Chatbot,0,0.502434
+f05590b4-dd51-41e0-9bcc-895fd260705c,DSIT: Consult,0,0.449945
+3d392cdc-7335-4650-a510-8cdfb31eeaaf,DSIT: GOV.UK Chat,0,0.122333
+2862eff9-c94b-4ea5-9c17-9e9fba61a08c,DSIT: GOV.UK One Login - Liveness & Likeness Checks,1,0.818928
+5d44428d-2f1c-4fb6-91ba-76e43ab996fd,DSIT: GOV.UK site search,1,0.868963
+dcee876f-9ffd-4a83-a636-29c96bcf0214,DSIT - Parlex,0,0.398845
+dc1deba3-8a4d-4659-85b4-fc5de1268613,DSIT - Redbox,0,0.456799
+9fdc7383-c3d8-4e04-aba4-4d782bcaab02,DSIT: Succession Select,0,0.383712
+25911e60-06fe-4bab-9728-04ceeb43d693,DVLA: Contact Centre Chatbot service,1,0.472033
+f1aa9d72-a5a4-4a12-b571-cd29cbfc64ae,DVLA: Contact Centre Natural Language IVR ,1,0.237581
+00de9758-2f8c-4adb-9c9a-ff57cb2d50a0,DVLA: Drivers Medical Casework System,0,0.963493
+e511ab00-a593-4920-b5a3-5a9c40638674,DVSA: MOT Risk Rating,1,0.443054
+308ce38a-847f-43ce-ad37-ff65821d9f94,DWP: Child Maintenance Service (CMS) - Predictive Analytics Compliance,1,0.967912
+92ea9e71-03b2-4fbd-866c-2f7b5d661eab,DWP: CMG Return Letters processing,1,0.994678
+b9fea827-2b82-467c-b88c-8d57dfdf8f17,DWP: Conversational Platform ,1,0.699763
+2b43fd62-bb53-419e-ad7e-a1b80bc750fd,DWP: Employment and Support Allowance Online Medical Matching,1,0.855998
+c4de469a-62b9-462e-bc3a-08ec122fae7b,DWP: Universal Credit Advances Model,1,0.45263
+a1e505eb-2cc5-4331-a923-2873b0f0f964,DWP: Urgent Journal Messages,1,0.355506
+07300799-85f5-4359-820a-fab3d81fbb9e,Ealing Council: Adult Social Care Annual Financial Expenditure Forecast,1,0.675463
+bef4b467-7579-461e-9dc9-dbe235c2169e,NHS England: Electronic Prescription Service Assist Me,0,0.879612
+13a4f1b9-a3f8-40f5-9512-146335834268,Environment Agency: Hello Lamp Post,1,0.401696
+c98af674-d58f-463f-815e-317c8e3d0f9b,DfT: EV Chargepoint Grant Photos Fraud Tool,0,0.604935
+38a7365e-7b2a-4eb8-a53c-c0faffc99820,FCDO: Consular Digital Triage - Written Enquiries LLM ,0,0.307906
+39447ea9-adac-415e-bdfe-bfd12be26509,FCDO: Correspondence Triage,0,0.08957
+55e8b4af-a91a-42f5-803f-df4b2217bc1f,Food Standards Agency: Food Hygiene Rating Scheme – AI,0,0.980163
+20993af9-02ef-45ed-8897-9556984b4709,GOV.UK Data Labs (Cabinet Office): Related Links,1,0.187644
+d3be41fd-6a37-4863-86a3-bd2e82851aa8,Greater Cambridge Partnership: Smart Pedestrian Crossing Trial,0,0.642602
+d5231188-6488-4c92-9114-7b787e631cd3,Greater London Authority: London Building Stock Model 2,0,0.801995
+cb706214-fc40-4926-b74f-e02d56c18350,Hampshire and Thames Valley Police: DARAT,0,0.789954
+87f15285-9d2f-450c-b88d-51c9983ab3d1,Health Research Authority: Proportionate Review Toolkit,1,0.983295
+0d5525cb-a5cc-4c15-afc6-0ba720f8ed99,HMPPS: Key Work quality assurance automation,1,0.22205
+7e3ea6dc-7531-4eb5-a218-e5a2be9e6b20,HMPPS: Violence in Prisons Estimator,1,0.968186
+db0a341c-b6a0-4a5d-9553-cb2a307d3738,HMRC: Ask HMRC online,1,0.303187
+7f010e54-32d1-4969-8c45-bee3bbdaeb5d,HMRC: Logo Detection and Classification Toolkit (LDK),1,0.998981
+44ca1d00-6e9c-4127-92cb-b3f76e95e235,HMRC: VAT Return Analysis Tool,1,0.999492
+421dcf13-8f28-45ee-9338-10be78ea50ed,HMT: Correspondence Triage Automation Tool,1,0.425007
+c992b0ee-39fd-47d0-878a-3be690849f55,HMT: HERMeS (HMT's Excerpt Retrieval Messaging System),1,0.23982
+bab66a52-5dca-4336-b15b-7404d636f481,HMT: Policy Engine UK,0,0.698933
+b879a934-7f30-448a-960e-f40fbb18ccc1,Home Office: Complexity Application Routing Solution - Visits,1,0.787277
+83b6a6b6-af28-4287-8756-3e3b70ace158,ICO: Chatbot,1,0.19721
+e10251bf-9922-4366-9e1e-817ccf1461aa,ICO: ICE 360 Case Creation Automation,1,0.314576
+d9f83d15-9f55-4a95-b086-ee491e716bb1,ICO: Registration Inbox AI,1,0.521535
+cb0543c2-7c42-42fe-a777-06b8c7ae593e,Insolvency Service: Director Conduct Reporting Service - Rules Engine,0,0.863451
+ff95748a-36f0-46ed-b071-299e815d4919,Insolvency Service: Redundancy Payment Calculation Engine,0,0.511597
+1a4cc8e6-468f-4b5f-a602-3d350e9f42c6,IPO: Check if you could register your trade mark tool,1,0.462462
+f9db3c69-3acf-42a8-a49c-14d4289e9627,Leeds City Council: Money Information Centre Chatbot,0,0.295579
+2c3c954f-62d6-4e0a-a129-51a716f932fe,Leeds City Council: Xylo Core,0,0.029217
+1d271a04-f762-4695-a442-15131352d27a,LGSCO: LGSCO Chatbot,0,0.197877
+d1bd3907-1865-4546-8bb3-93e59c84b2bb,"London Borough of Sutton: Access Assure, Technology Enabled Care",1,0.188185
+5ff265e6-9b2c-409e-86af-75607f03a031,Maritime and Coastguard Agency: Proview Proctoring Tool,1,0.213016
+5c9e47cb-264a-40c0-965b-066ffe81d4a5,Maritime and Coastguard Agency: Themis,1,0.98657
+f1d03163-62de-48b8-b146-6af5eb0df9db,Met Office: Weather and climate forecasting,1,0.549226
+6cec6384-05d7-4708-b9d4-6386d1906ed0,MHCLG: Safer Greener Buildings Building Image Recognition Tool,0,0.866145
+aa3132ef-3992-4d75-9f2d-7ff9c50bf9ef,Mining Remediation Authority: Experian Commercial Delphi Score,1,0.767639
+567e046c-806a-4be1-90fe-0193a3be2615,MOD: Textio,0,0.519628
+9cf6020d-5189-4540-b182-e3542c106bed,MoJ: Data First (Splink),1,0.972505
+bcd0f942-bc4d-4eaf-bbed-d072330f19d1,MoJ: nDelius Contact Log Semantic Search,0,0.057155
+68684868-c74a-4cbc-b68f-e78c6bfeb57d,MoJ : Splink Master Record,1,0.666904
+b567edf8-fd53-46c8-b386-d5ff2a9d078c,Money and Pensions Service: Budget Planner,1,0.913945
+418b5505-affd-4b7a-86c7-48eeb31809ca, Money and Pensions Service: Mortgage Affordability Calculator,1,0.921193
+873d325a-d455-420c-aa07-2ed395d1e287, Money and Pensions Service: Mortgage Repayment Calculator,1,0.958102
+e94497be-0f27-4652-9619-4e77c7b81865,Money and Pensions Service: Pension Calculator,1,0.843462
+a7103f66-b21a-41a8-aed7-d6ad427450cd,Money and Pensions Service: Redundancy Pay Calculator,1,0.899365
+a2a70309-6052-4258-b536-6badd03af5ea,National Highways: Highways Webchat ,1,0.745906
+fd7c248e-a6e7-48f7-9fad-f0cbd6e8820c,Natural England : AI4Peat,1,0.823817
+81dc5ba7-bf92-4663-ad43-87429d6d5551,Natural England: Living England,1,0.797387
+e480ad2b-5b9a-41aa-8dc2-96d1a2e484da,Network Rail: Digital Assistant,1,0.691846
+e712ff99-39e5-4837-8dc5-d77d9a49b59d,Newcastle City Council: AWS Contact Centre Services (Amazon Q and Contact Lens),1,0.051049
+291c5e7e-5baf-4aef-80df-56514e2210b4,Newcastle City Council: Magic Notes,0,0.910938
+765022b9-b136-466d-9647-c41fa33cf460,NHS Blood & Transplant: Organ Offering Scheme Algorithms,1,0.994445
+18f417ca-e894-4bae-a669-20568a829a94,NHS BSA: Residency Checker for UK EHIC/GHIC/PRC/S2,1,0.979888
+e1ed992a-e2c4-4709-ad38-6bcbeab7a390,NHS England: NHS.UK Reviews Automoderation Tool,0,0.526071
+b6ab71f0-c26a-4514-96a5-62a8fa0bab78,NHS BSA: Prescriptions and Dental Exemption check,1,0.379363
+45387be7-c993-492b-9148-baccd7b9a767,NICE: Cochrane Randomised Controlled Trials (RCT) Classifier,1,0.996193
+becd7368-5ad4-4e53-88ef-a65a44223034,NICE: NORMA (NICE-ONS Recommendation Matching Algorithm),1,0.76919
+f52318d0-4e43-4cfc-bee8-c6a3d5f67ffa,NICE: Priority Screening Algorithm,1,0.990876
+106e865d-f035-4fee-a728-1f655bbfafce,NS&I: Customer Chatbot,1,0.787625
+8348adce-b060-4074-b0da-a8ccf0e35d89,NS&I: PolyAI,1,0.729776
+fc2b6d75-a5fb-4204-a77a-7b0808225bd1,Oak National Academy: Aila (Oak's AI Lesson Assistant),0,0.464875
+b8e2b343-07af-4d1b-b78e-391bff58749a,Office for National Statistics: Survey Assist,0,0.495262
+29bef72c-1e5a-481a-9923-56610ef8bb8a,Office for Students: Teaching Funding Allocations,1,0.622521
+a18ac4c2-18a6-42a3-a6cf-efd525f9cc61,Office of the Public Guardian: Investigations Assistant,0,0.183743
+52278caf-04a3-4e26-946b-257aea27d9e3,HMRC: Organisational Listening Tool,1,0.912282
+b6c85aaf-4a14-4783-901e-4354892a0766,OSBC: Interest Calculator ,1,0.958806
+ac2428c5-7e08-41bb-b65d-3911e9db6635,Public Sector Fraud Authority: Fraud Risk Assessment Accelerator,0,0.788014
+1bf1ad3a-2b55-4996-ba80-8c2a5b21b95b,DfE: Recruit an Apprentice AI Vacancy Quality Assurance API,0,0.024535
+8e7afd4e-bc5d-40ba-849b-cfcef87597c4,Salix Finance: Fraud Risk Assessment Reviewer ,0,0.391434
+bd959c23-283b-4b24-bf73-59f7aff3c97a,Student Loans Company: Advanced Learning Loans Assessment Rules,1,0.529202
+83ee37f8-4e85-4f41-a8ef-9d3529c742e9,Social Care Wales: Qualification Chatbot,0,0.462203
+f6915e97-f3ce-4267-bf95-2894d39cdddb,Standards and Testing Agency: Colossyan AI for voiceovers and videos,1,0.997116
+a44fa208-228f-4c71-8129-568dca02a12d,Standards and Testing Agency: Key stage 2 Test Administration form rules,1,0.896683
+33bc5301-b046-4651-a79e-38e64aceb78e,Standards and Testing Agency: LLM - KS2 Writing Sample Generator,0,0.699003
+3046d14c-72bc-48a0-8005-934baf6767d9,Standards and Testing Agency: Reception Baseline Assessment Routing,1,0.642042
+72ecfbc8-841c-4f69-8a7e-9c16ae13d4fe,Student Loans Company: Postgraduate Assessment Rules,1,0.784856
+b5d75629-b0cb-4f0d-b50d-1f54410d049e,Ofsted: Survey Summarisation Tool,0,0.196928
+3e1c2386-19de-45c5-8ba8-968f259f744e,The Crown Prosecution Service: Correspondence Drafting Tool,0,0.185665
+595a0683-edec-42ee-932e-ec7bfd573c85,The Gambling Commission: Illegal Gambling website identification tool,0,0.966838
+a89025e8-63dd-4c88-95be-9e486e7f8b54,The Probation Service: Effective Proposal Framework,1,0.934454
+139bd63f-91ed-4659-8be5-ce1f03c21a34,TrustID,1,0.873521
+46345fd7-10aa-408b-ac78-76543c21e35d,UK Export Finance: PRISM (Portfolio Risk Simulation Model),1,0.938858
+25df5efc-335f-4467-b472-91fe6e25c25d,UK Heath Security Agency: TB Country of Birth support tool,1,0.763067
+e749e10d-e828-495a-bcaa-0c42bc39e2c8,UKHO: Tidal Harmonic Analysis and Prediction,1,0.983142
+9a5c896a-e94e-4595-9da6-4ec09a5dd54b,Valuation Office Agency: Automated Valuation Model,1,0.95552
+8ab700c3-26c1-41bd-b46d-3f5cf6fbc307,Warwickshire County Council: Domestic EPC Estimates,1,0.315291
+953e25ec-f39a-4b6a-b6b2-7db7b2f10c26,Welsh Government: Dylun - A content design assistant,0,0.008628
+f07804e2-3110-4995-bdf6-7cd3ad568589,Welsh Government: Mapping Ancient Woodland Image Segmentation Model,0,0.18117
+bbc5ffe7-4010-47f6-8ab4-ae41120da1da,West Berkshire Council: Apply for a Larger Rubbish Bin,1,0.338149
+bcf9cc3e-f81a-4e64-880f-a27f5e45b725,West Midlands Police: exploratory analysis of sexual convictions,0,0.751525
+1ce3ca70-5f30-470e-ac2d-bb6492d14c88,DWP: Whitemail Insights and Vulnerability Scanner,1,0.173009
+1733aa35-2c57-4778-bee9-f96caf966b82,Wilton Park: Data Cleaning Tool,1,0.894547
