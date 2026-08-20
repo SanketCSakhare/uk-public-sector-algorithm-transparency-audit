@@ -113,14 +113,6 @@ flowchart LR
 - Publication coverage cannot reveal systems that were not disclosed.
 - Comparisons are descriptive and should not be used to rank public bodies.
 
-## CV-ready description
-
-**UK Public Sector Algorithm Transparency Audit — Python, data engineering, responsible AI**
-
-- Engineered a reproducible Python pipeline across **142 official GOV.UK Algorithmic Transparency Records**, with concurrent API ingestion, cross-version HTML parsing, provenance snapshots, and automated data-quality gates.
-- Designed **eight explainable AI-governance disclosure indicators** and produced record-level CSV/JSON outputs plus a portable HTML audit, explicitly separating transparency evidence from claims about safety or compliance.
-- Benchmarked **six predictive classifiers** using repeated stratified cross-validation; selected an interpretable logistic model under a predeclared simplicity rule and documented modest out-of-fold discrimination (**ROC-AUC 0.693**) in a model card.
-
 The figures above are accurate for the repository snapshot dated 17 August 2026. Rerun the pipeline and read `reports/summary.json` before claiming a later snapshot.
 
 ## Sources and licensing
